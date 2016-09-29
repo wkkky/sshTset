@@ -1,0 +1,4 @@
+checkout checkout --file
+rm 
+git rm
+aaaass
